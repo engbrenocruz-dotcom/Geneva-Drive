@@ -5,15 +5,15 @@ svg#genevaDrive {
 }
 
 svg#genevaDrive #gWheel circle {
-    fill: #DB1B00;
+    fill: #db1b00;
 }
 
 
 svg#genevaDrive #gDrive #base {
-    fill: #EAAF09;
+    fill: #eaaf09;
 }
 
 svg#genevaDrive #gDrive #stopDisc,
 svg#genevaDrive #gDrive #pin {
-    fill: #110C0A;
+    fill: #110c0a;
 }
